@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://paulchumbow254.lovable.app">PORTFOLIO</a> &nbsp;·&nbsp;
+  <a href="https://paulchumbow254.lovable.app?utm_source=github&utm_medium=profile&utm_campaign=github_portfolio">PORTFOLIO</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/paul-chumbow">LINKEDIN</a> &nbsp;·&nbsp;
   <a href="mailto:paulchumbow254@gmail.com?subject=Project%20or%20workflow%20enquiry">CONTACT</a>
 </p>
@@ -88,7 +88,7 @@ I’m continuing to develop practical work across operations, WordPress, web app
 
 If you need support with founder operations, digital coordination, a WordPress website or a practical business tool, send a short outline of the challenge.
 
-**[Email Paul about a project](mailto:paulchumbow254@gmail.com?subject=Project%20or%20workflow%20enquiry)** · [View my portfolio](https://paulchumbow254.lovable.app)
+**[Email Paul about a project](mailto:paulchumbow254@gmail.com?subject=Project%20or%20workflow%20enquiry)** · [View my portfolio](https://paulchumbow254.lovable.app?utm_source=github&utm_medium=profile&utm_campaign=github_portfolio)
 
 I aim to respond to genuine enquiries within **one business day**.
 
