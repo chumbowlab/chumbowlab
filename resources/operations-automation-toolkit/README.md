@@ -8,17 +8,25 @@ The aim is simple: make recurring work easier to understand, coordinate and impr
 
 ### 1. Daily operations brief
 
+[Open the daily operations brief template](./templates/daily-operations-brief.md)
+
 A lightweight structure for reviewing priorities, meetings, pending decisions and follow-ups.
 
 ### 2. Meeting-to-action workflow
+
+[Open the meeting-to-action template](./templates/meeting-to-action.md)
 
 A repeatable process for turning meeting notes into clear decisions, owners, due dates and follow-up actions.
 
 ### 3. Follow-up tracker
 
+[Open the follow-up tracker CSV](./templates/follow-up-tracker.csv)
+
 A simple register for tracking who needs a response, what is outstanding, the next action and when to revisit it.
 
 ### 4. Process documentation checklist
+
+[Open the process documentation checklist](./templates/process-documentation-checklist.md)
 
 A practical checklist for documenting a recurring workflow so another person can understand and follow it.
 
