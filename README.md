@@ -17,10 +17,7 @@
 </p>
 
 <h1 align="center">I turn operational friction into practical systems.</h1>
-
-<p align="center">
-  Founder support&nbsp; · &nbsp;Digital operations&nbsp; · &nbsp;WordPress solutions&nbsp; · &nbsp;AI-enabled workflows
-</p>
+<p align="center">Founder support&nbsp; · &nbsp;Digital operations&nbsp; · &nbsp;WordPress solutions&nbsp; · &nbsp;AI-enabled workflows</p>
 
 I’m Paul Chumbow, a founder-support and digital-operations professional who combines thoughtful coordination with practical technology. I help founders, small teams and organisations make work clearer: organise priorities, improve hand-offs, maintain their digital presence and build useful tools around real workflows.
 
@@ -32,24 +29,12 @@ I’m Paul Chumbow, a founder-support and digital-operations professional who co
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Founder & executive support</h3>
-      Calendar and task coordination, meeting preparation, action tracking, research, documentation and reliable follow-through.
-    </td>
-    <td width="50%" valign="top">
-      <h3>Digital operations</h3>
-      Process mapping, operational trackers, repeatable workflows, hand-offs and lightweight internal systems.
-    </td>
+    <td width="50%" valign="top"><h3>Founder & executive support</h3>Calendar and task coordination, meeting preparation, action tracking, research, documentation and reliable follow-through.</td>
+    <td width="50%" valign="top"><h3>Digital operations</h3>Process mapping, operational trackers, repeatable workflows, hand-offs and lightweight internal systems.</td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>WordPress & web solutions</h3>
-      WordPress implementation, child-theme customisation, maintenance, WooCommerce support and SEO foundations.
-    </td>
-    <td width="50%" valign="top">
-      <h3>Practical AI & automation</h3>
-      AI-assisted research, drafting, documentation and workflow experiments—with human review and sensible safeguards.
-    </td>
+    <td width="50%" valign="top"><h3>WordPress & web solutions</h3>WordPress implementation, child-theme customisation, maintenance, WooCommerce support and SEO foundations.</td>
+    <td width="50%" valign="top"><h3>Practical AI & automation</h3>AI-assisted research, drafting, documentation and workflow experiments—with human review and sensible safeguards.</td>
   </tr>
 </table>
 
@@ -84,28 +69,24 @@ Daily briefs, task tracking, meeting preparation, follow-ups, weekly reviews and
 - Browser-local data, CSV task export, ICS calendar export and JSON backup
 - No authentication, hosted database, cloud sync or live Google Workspace integration
 
-[Explore the project](./projects/founder-operations-hub/README.md)
+[Explore the project](./projects/founder-operations-hub/README.md) · [Architecture](./projects/founder-operations-hub/ARCHITECTURE.md)
 
 ### 04 / Operations & Automation Toolkit
 **Reusable resources for assistants, founders and small teams.**
 
-Daily brief, meeting-to-action, follow-up and process-documentation templates, with more practical resources being added.
+Daily briefs, meeting-to-action, follow-up and process-documentation templates, plus workflow scoping, SOP, WordPress maintenance and AI review resources.
 
 [Open the toolkit](./resources/operations-automation-toolkit/README.md)
 
----
-
 ## A practical resource library
-
-I’m building a small collection of templates and playbooks that people can adapt—not just read about.
 
 | Resource | Use it to |
 |---|---|
 | [Operations & Automation Toolkit](./resources/operations-automation-toolkit/README.md) | Structure recurring admin and operations work |
-| [Daily Operations Brief](./resources/operations-automation-toolkit/templates/daily-operations-brief.md) | Establish priorities and daily visibility |
-| [Meeting-to-Action](./resources/operations-automation-toolkit/templates/meeting-to-action.md) | Convert discussions into owned actions |
-| [Follow-up Tracker](./resources/operations-automation-toolkit/templates/follow-up-tracker.csv) | Keep commitments and responses visible |
-| [Process Documentation Checklist](./resources/operations-automation-toolkit/templates/process-documentation-checklist.md) | Make repeatable work easier to hand over |
+| [Workflow Scoping Brief](./resources/operations-automation-toolkit/templates/workflow-scoping-brief.md) | Understand a process before changing it |
+| [Standard Operating Procedure](./resources/operations-automation-toolkit/templates/standard-operating-procedure.md) | Document repeatable work |
+| [WordPress Maintenance Checklist](./resources/operations-automation-toolkit/templates/wordpress-maintenance-checklist.md) | Organise routine site care |
+| [AI Workflow Review](./resources/operations-automation-toolkit/templates/ai-workflow-review.md) | Evaluate privacy, testing and human oversight |
 
 ## How I work
 
@@ -126,10 +107,7 @@ Tools are selected to fit the problem; a tool name is not a claim that every int
 
 ## Have a workflow, website or operations challenge?
 
-Send a short note describing:
-- what you are trying to achieve;
-- where the current process gets stuck; and
-- what a useful outcome would look like.
+Send a short note describing what you are trying to achieve, where the current process gets stuck and what a useful outcome would look like.
 
 **[Email Paul about a project](mailto:paulchumbow254@gmail.com?subject=Project%20or%20workflow%20enquiry)** · [View the portfolio](https://paulchumbow254.lovable.app?utm_source=github&utm_medium=profile&utm_campaign=github_portfolio)
 
@@ -137,7 +115,4 @@ I aim to respond to genuine enquiries within **one business day**.
 
 ---
 
-<p align="center">
-  <sub><strong>Paul Chumbow</strong> · Chumbow Lab · Nairobi, Kenya</sub><br>
-  <sub>Turning Ideas Into Systems That Work.</sub>
-</p>
+<p align="center"><sub><strong>Paul Chumbow</strong> · Chumbow Lab · Nairobi, Kenya</sub><br><sub>Turning Ideas Into Systems That Work.</sub></p>
