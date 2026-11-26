@@ -1,60 +1,85 @@
-# Founder Operations Hub | Founder-Support Workspace
+# Founder Operations Hub
+### A practical founder-support workspace prototype
 
-A practical founder workspace prototype by **Paul Chumbow** · Chumbow Lab for keeping priorities, meetings, follow-ups and weekly reviews visible in one place.
+A lightweight browser-based workspace by **Paul Chumbow · Chumbow Lab** for keeping priorities, meetings, follow-ups and weekly reviews visible in one place.
 
-**Status:** Prototype · **Version:** 1.0 · **Stack:** HTML, CSS and vanilla JavaScript
+<p align="center">
+  <strong>DAILY BRIEF</strong> &nbsp;·&nbsp; <strong>TASKS</strong> &nbsp;·&nbsp; <strong>MEETINGS</strong> &nbsp;·&nbsp; <strong>FOLLOW-UPS</strong> &nbsp;·&nbsp; <strong>WEEKLY REVIEW</strong>
+</p>
 
-## What does it help organise?
+| Project detail | Current state |
+|---|---|
+| Status | Prototype v1.0 |
+| Stack | HTML · CSS · Vanilla JavaScript |
+| Runtime | Modern browser |
+| Data storage | Browser localStorage |
+| Exports | CSV · ICS · JSON backup |
+| Authentication / backend | Not implemented |
+| Live Google Workspace sync | Not implemented |
 
-The Founder Operations Hub brings recurring founder-support activities into one lightweight workspace: daily focus, task ownership, meeting preparation, follow-up commitments and weekly reflection.
+## The problem it explores
 
-## What can you do?
+Founder-support work often spans multiple places: task lists, calendars, meeting notes, email follow-ups and weekly planning. When these are disconnected, priorities and commitments become harder to see.
 
-- Review a daily brief with open tasks, meetings, follow-ups due and overdue actions.
-- Capture tasks with a project, owner, due date, priority, status and notes.
-- Search and filter the task list, mark work complete or reopen it.
-- Schedule meetings with attendees, agenda, location and decision notes.
-- Export recorded meetings as an `.ics` calendar file for import into Google Calendar or another calendar application.
-- Track people, commitments, communication channels and next follow-up dates.
-- Save a weekly review covering progress, blockers, lessons and next week's priorities.
-- Export task records as CSV for use in Google Sheets or other spreadsheet tools.
-- Download and restore a JSON workspace backup.
+The Hub explores a simple operating view that brings recurring coordination activities into one workspace.
 
-## How do you run it?
+## What is implemented?
+
+- Daily brief showing open tasks, meetings, follow-ups due and overdue actions.
+- Task records with project, owner, due date, priority, status and notes.
+- Search, filtering and task completion/reopening.
+- Meeting records with attendees, agenda, location and decision notes.
+- Calendar-file export in `.ics` format.
+- Follow-up records with people, commitments, communication channels and next dates.
+- Weekly reviews for progress, blockers, lessons and upcoming priorities.
+- CSV export of task records.
+- JSON workspace backup and restore.
+
+## How to run it
 
 1. Download or clone this repository.
 2. Open `index.html` in a modern browser.
-3. Explore the clearly labelled sample workspace.
-4. Add non-sensitive test records and export a backup before using your own information.
+3. Explore the illustrative sample workspace.
+4. Add non-sensitive test records and try the export/backup features.
 
-No build step, package installation or external JavaScript library is required.
+No package installation, build step or external JavaScript library is required.
 
-## How does data storage work?
+## How the data moves
+
+See [Architecture and data flow](./ARCHITECTURE.md) for a simple explanation of the browser-only design and file exports.
+
+## Storage, privacy and limitations
 
 The prototype uses browser `localStorage`. Records remain in the browser profile where they were entered; they are not sent to a server, shared with other users or synchronised across devices. Clearing browser data may remove the workspace, so use the JSON backup feature.
 
-## Is Google Calendar or Google Sheets live-connected?
+This is a single-user prototype, not a production SaaS application. It has no authentication, hosted database, role-based access, encrypted server storage, automatic cloud backup, real-time collaboration or live Google Workspace integration.
 
-No. The calendar feature currently exports an `.ics` file that can be imported into Google Calendar. Tasks can be exported as CSV for Google Sheets. These are one-way file hand-offs, not live two-way integrations. A future connected version would require authenticated APIs, appropriate permissions, a secure backend and conflict-handling rules.
+- ICS export is a file hand-off, not live two-way Google Calendar sync.
+- CSV export is a file hand-off, not a live Google Sheets connection.
+- Sample tasks, meetings and follow-ups are illustrative, not actual client records.
+- Do not enter passwords, identity documents, sensitive client data, confidential meeting notes or financial credentials.
 
-## Important limitations
+## Verification before wider use
 
-This is a single-user prototype, not a production SaaS application. It has no user authentication, hosted database, role-based access, encrypted server storage, automatic cloud backup, real-time collaboration or live Google Workspace integration. Do not enter passwords, identity documents, sensitive client data, confidential meeting notes, financial credentials or other private information.
+The project should be checked in a current browser after code changes. Use the [manual test checklist](./TESTING.md) to verify key workflows. Do not treat a checklist as evidence that a test has passed until it has actually been performed.
 
-The sample tasks, meetings and follow-ups are illustrative examples, not records of actual clients or events.
+## Roadmap
 
-## Next improvements
+Potential next steps, subject to user feedback and technical design:
 
-- Secure backend, authentication and user-specific workspaces.
-- Google Calendar OAuth integration with explicit consent and two-way sync.
-- Google Sheets integration for selected trackers.
-- Meeting-to-action conversion and a searchable decision log.
+- Automated tests and accessibility review.
+- Secure backend and authenticated user workspaces.
+- Google Calendar integration with explicit OAuth consent and conflict handling.
+- Optional Google Sheets integration for selected trackers.
+- Meeting-to-action conversion and searchable decision log.
 - Reminder and escalation workflows.
-- Automated tests, accessibility review and feedback from founders using the workflow.
+- Recovery and data-retention design.
 
-## Want to discuss a founder-support or operations workflow?
+These are future possibilities, not implemented features.
 
-**[Contact Paul Chumbow](mailto:paulchumbow254@gmail.com?subject=Founder%20Operations%20Hub%20enquiry).**
+## Feedback or collaboration
+
+If you support a founder or small team and have feedback on the workflow, open an issue or [contact Paul Chumbow](mailto:paulchumbow254@gmail.com?subject=Founder%20Operations%20Hub%20feedback).
 
 ---
 
