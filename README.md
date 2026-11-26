@@ -71,7 +71,14 @@ Daily briefs, task tracking, meeting preparation, follow-ups, weekly reviews and
 
 [Explore the project](./projects/founder-operations-hub/README.md) · [Architecture](./projects/founder-operations-hub/ARCHITECTURE.md)
 
-### 04 / Operations & Automation Toolkit
+### 04 / Follow-up Desk
+**A small, local-first tool for keeping commitments visible.**
+
+Add and edit follow-ups, record next actions and due dates, search and filter records, track overdue items and export a CSV—all in the browser without an account or server.
+
+[Open the tool](./tools/follow-up-desk/index.html) · [Read how it works](./tools/follow-up-desk/README.md)
+
+### 05 / Operations & Automation Toolkit
 **Reusable resources for assistants, founders and small teams.**
 
 Daily briefs, meeting-to-action, follow-up and process-documentation templates, plus workflow scoping, SOP, WordPress maintenance and AI review resources.
@@ -87,6 +94,7 @@ Daily briefs, meeting-to-action, follow-up and process-documentation templates, 
 | [Standard Operating Procedure](./resources/operations-automation-toolkit/templates/standard-operating-procedure.md) | Document repeatable work |
 | [WordPress Maintenance Checklist](./resources/operations-automation-toolkit/templates/wordpress-maintenance-checklist.md) | Organise routine site care |
 | [AI Workflow Review](./resources/operations-automation-toolkit/templates/ai-workflow-review.md) | Evaluate privacy, testing and human oversight |
+| [Follow-up Desk](./tools/follow-up-desk/index.html) | Track commitments and export follow-ups to CSV |
 | [WordPress Operations Playbook](./resources/wordpress-operations-playbook/README.md) | Follow a structured website maintenance process |
 | [AI Workflow Lab](./resources/ai-workflow-lab/README.md) | Explore practical, human-reviewed AI use cases |
 
