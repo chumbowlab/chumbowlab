@@ -1,6 +1,6 @@
-# Founder Operations Hub
+# Founder Operations Hub | Founder-Support Workspace
 
-A practical founder workspace prototype by **Chumbow Lab** for keeping priorities, meetings, follow-ups and weekly reviews visible in one place.
+A practical founder workspace prototype by **Paul Chumbow** · Chumbow Lab for keeping priorities, meetings, follow-ups and weekly reviews visible in one place.
 
 **Status:** Prototype · **Version:** 1.0 · **Stack:** HTML, CSS and vanilla JavaScript
 
@@ -54,8 +54,8 @@ The sample tasks, meetings and follow-ups are illustrative examples, not records
 
 ## Want to discuss a founder-support or operations workflow?
 
-**[Contact Chumbow Lab](mailto:paulchumbow254@gmail.com?subject=Founder%20Operations%20Hub%20enquiry).**
+**[Contact Paul Chumbow](mailto:paulchumbow254@gmail.com?subject=Founder%20Operations%20Hub%20enquiry).**
 
 ---
 
-*Chumbow Lab — Turning Ideas Into Systems That Work.*
+**Paul Chumbow** · Chumbow Lab — *Turning Ideas Into Systems That Work.*
