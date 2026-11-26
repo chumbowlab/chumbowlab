@@ -33,9 +33,9 @@ A browser-based prototype for landlords and property managers in Kenya. It bring
 
 ### CMFI Kenya · WordPress website project
 
-A WordPress implementation project for Christian Missionary Fellowship International Kenya.
+A live WordPress website project for Christian Missionary Fellowship International Kenya, bringing together custom child-theme styling, responsive presentation, content architecture, SEO foundations and ongoing site operations.
 
-[Visit the website →](https://cmfikenya.com)
+[Explore the CMFI Kenya case study →](https://github.com/chumbowlab/chumbowlab/tree/main/projects/cmfi-kenya) · [Visit the website →](https://cmfikenya.com)
 
 ### Founder Operations Hub · A founder-support workspace prototype
 
