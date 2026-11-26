@@ -1,100 +1,143 @@
 <!--
   Paul Chumbow | GitHub profile
-  Brand: Chumbow Lab
-  Focus: founder support, digital operations, WordPress and practical AI workflows.
+  Chumbow Lab — Turning Ideas Into Systems That Work.
+  Positioning: founder support, digital operations, WordPress and practical AI workflows.
 -->
 
 <p align="center">
-  <img src="./assets/chumbow-lab-banner.svg" alt="Paul Chumbow — Turning Ideas Into Systems That Work. Founder support, digital operations and practical web solutions." width="100%">
+  <img src="./assets/chumbow-lab-banner.svg" alt="Paul Chumbow — Turning Ideas Into Systems That Work. Founder support, digital operations and web solutions." width="100%">
 </p>
 
 <p align="center">
-  <a href="https://paulchumbow254.lovable.app?utm_source=github&utm_medium=profile&utm_campaign=github_portfolio">PORTFOLIO</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/paul-chumbow">LINKEDIN</a> &nbsp;·&nbsp;
-  <a href="mailto:paulchumbow254@gmail.com?subject=Project%20or%20workflow%20enquiry">CONTACT</a>
+  <a href="https://paulchumbow254.lovable.app?utm_source=github&utm_medium=profile&utm_campaign=github_portfolio"><strong>PORTFOLIO</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/paul-chumbow">LINKEDIN</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:paulchumbow254@gmail.com?subject=Project%20or%20workflow%20enquiry">START A CONVERSATION</a>
 </p>
 
-# Hello, I’m Paul Chumbow.
+<h1 align="center">I turn operational friction into practical systems.</h1>
 
-I work at the intersection of **founder support, digital operations and practical technology**. I help make work clearer and more manageable through thoughtful coordination, useful digital tools, well-built websites and carefully applied AI workflows.
+<p align="center">
+  Founder support&nbsp; · &nbsp;Digital operations&nbsp; · &nbsp;WordPress solutions&nbsp; · &nbsp;AI-enabled workflows
+</p>
 
-**Chumbow Lab** is the working identity behind this portfolio: *Turning Ideas Into Systems That Work.*
+I’m Paul Chumbow, a founder-support and digital-operations professional who combines thoughtful coordination with practical technology. I help founders, small teams and organisations make work clearer: organise priorities, improve hand-offs, maintain their digital presence and build useful tools around real workflows.
 
-## What do I help make easier?
+**Chumbow Lab** is the portfolio and working identity behind that approach.
 
-| Focus | What that looks like |
-|---|---|
-| **Founder & executive support** | Calendar and task coordination, meeting preparation, follow-through, documentation and operational visibility |
-| **Digital operations** | Process mapping, hand-offs, trackers, repeatable workflows and practical systems |
-| **WordPress & web solutions** | Website implementation, child-theme customisation, maintenance, WooCommerce support and SEO foundations |
-| **Practical AI & automation** | AI-assisted research, drafting, workflow experiments and human-reviewed process improvements |
+---
 
-## What can you explore here?
+## What can I help you improve?
 
-### Property Operations — maintenance coordination prototype
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Founder & executive support</h3>
+      Calendar and task coordination, meeting preparation, action tracking, research, documentation and reliable follow-through.
+    </td>
+    <td width="50%" valign="top">
+      <h3>Digital operations</h3>
+      Process mapping, operational trackers, repeatable workflows, hand-offs and lightweight internal systems.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>WordPress & web solutions</h3>
+      WordPress implementation, child-theme customisation, maintenance, WooCommerce support and SEO foundations.
+    </td>
+    <td width="50%" valign="top">
+      <h3>Practical AI & automation</h3>
+      AI-assisted research, drafting, documentation and workflow experiments—with human review and sensible safeguards.
+    </td>
+  </tr>
+</table>
 
-A browser-based prototype exploring how landlords and property managers in Kenya can organise maintenance reports, urgency, assignments, progress, completion notes and costs.
+## Explore the work
 
-- **Stack:** HTML, CSS and vanilla JavaScript.
-- **Current scope:** browser-local records, CSV export and JSON backup.
-- **Important limitation:** no hosted backend or shared multi-user storage.
+These projects show how I approach operational and digital problems. Prototype status and technical limitations are stated openly.
 
-[Explore the repository](https://github.com/chumbowlab/chumbow-lab-property-operations) · [Use the maintenance workflow template](https://github.com/chumbowlab/chumbow-lab-property-operations/blob/main/resources/MAINTENANCE-WORKFLOW-TEMPLATE.md)
+### 01 / Property Operations
+**A maintenance coordination prototype for landlords and property managers.**
 
-### CMFI Kenya — WordPress website project
+A browser-based workflow for recording requests, assigning work, tracking progress, documenting completion and reviewing estimated versus actual costs.
 
-A live website project for Christian Missionary Fellowship International Kenya, covering WordPress implementation, child-theme styling, responsive presentation, content structure, SEO foundations and site operations.
+- HTML · CSS · Vanilla JavaScript
+- Browser-local storage, CSV export and JSON backup
+- No hosted backend or shared multi-user storage
 
-[Read the project case study](./projects/cmfi-kenya/README.md) · [Visit cmfikenya.com](https://cmfikenya.com)
+[Explore Property Operations](https://github.com/chumbowlab/chumbow-lab-property-operations) · [Read the workflow template](https://github.com/chumbowlab/chumbow-lab-property-operations/blob/main/resources/MAINTENANCE-WORKFLOW-TEMPLATE.md)
 
-### Founder Operations Hub — founder-support workspace prototype
+### 02 / CMFI Kenya
+**A live WordPress website implementation and digital-presence case study.**
 
-A lightweight workspace for daily briefs, task tracking, meetings, follow-ups and weekly reviews.
+Work covering WordPress implementation, child-theme styling, responsive presentation, content structure, SEO foundations and site operations.
 
-- **Stack:** HTML, CSS and vanilla JavaScript.
-- **Current scope:** browser-local data, CSV task export, calendar-file export and JSON backup.
-- **Important limitation:** live Google Workspace integrations, authentication and cloud synchronisation are not implemented.
+[Read the case study](./projects/cmfi-kenya/README.md) · [Visit the live website](https://cmfikenya.com)
+
+### 03 / Founder Operations Hub
+**A lightweight workspace for recurring founder-support activities.**
+
+Daily briefs, task tracking, meeting preparation, follow-ups, weekly reviews and file-based exports in a browser-based prototype.
+
+- HTML · CSS · Vanilla JavaScript
+- Browser-local data, CSV task export, ICS calendar export and JSON backup
+- No authentication, hosted database, cloud sync or live Google Workspace integration
 
 [Explore the project](./projects/founder-operations-hub/README.md)
 
-### Operations & automation toolkit — reusable resources
+### 04 / Operations & Automation Toolkit
+**Reusable resources for assistants, founders and small teams.**
 
-A growing, openly documented collection of practical templates and workflow patterns for founder support, digital operations and small teams.
+Daily brief, meeting-to-action, follow-up and process-documentation templates, with more practical resources being added.
 
-[Explore the toolkit](./resources/operations-automation-toolkit/README.md)
+[Open the toolkit](./resources/operations-automation-toolkit/README.md)
 
-## How do I approach a new problem?
+---
 
-1. **Understand the context:** identify the people, goals, steps, hand-offs and information involved.
-2. **Find the friction:** distinguish the underlying problem from symptoms and unnecessary complexity.
-3. **Choose a proportionate solution:** improve the process first, then introduce tools where they add value.
-4. **Build and document:** make the workflow understandable, maintainable and appropriate to its actual scope.
-5. **Review honestly:** use feedback and evidence to decide what to improve next.
+## A practical resource library
 
-## What principles guide my work?
+I’m building a small collection of templates and playbooks that people can adapt—not just read about.
 
-- Useful before complicated.
-- Clear ownership and follow-through.
-- Responsible handling of information and access.
-- Human oversight where AI is involved.
-- Transparent project status and limitations.
-- Evidence before claims.
+| Resource | Use it to |
+|---|---|
+| [Operations & Automation Toolkit](./resources/operations-automation-toolkit/README.md) | Structure recurring admin and operations work |
+| [Daily Operations Brief](./resources/operations-automation-toolkit/templates/daily-operations-brief.md) | Establish priorities and daily visibility |
+| [Meeting-to-Action](./resources/operations-automation-toolkit/templates/meeting-to-action.md) | Convert discussions into owned actions |
+| [Follow-up Tracker](./resources/operations-automation-toolkit/templates/follow-up-tracker.csv) | Keep commitments and responses visible |
+| [Process Documentation Checklist](./resources/operations-automation-toolkit/templates/process-documentation-checklist.md) | Make repeatable work easier to hand over |
 
-## What am I building and learning?
+## How I work
 
-I’m continuing to develop practical work across operations, WordPress, web applications and AI-assisted workflows. This profile will grow as projects become ready to share—with clear documentation, real screenshots and accurate status labels.
+1. **Understand the real workflow.** Clarify the outcome, people involved, constraints and hand-offs.
+2. **Reduce friction before adding tools.** Improve the process before automating it.
+3. **Build proportionately.** Choose a solution that fits the actual need and can be maintained.
+4. **Document for the next person.** Explain how it works, how to use it and where it stops.
+5. **Improve from evidence.** Test, gather feedback and distinguish implemented features from future plans.
 
-## Have a workflow or website project to discuss?
+## Tools & working methods
 
-If you need support with founder operations, digital coordination, a WordPress website or a practical business tool, send a short outline of the challenge.
+**Web:** WordPress, WooCommerce, PHP, HTML, CSS, JavaScript  
+**Operations:** Google Workspace, ClickUp, process documentation, coordination and reporting  
+**AI & automation:** ChatGPT, Claude, DeepSeek, Lovable, Base44, Zapier  
+**Visibility:** SEO foundations, Rank Math, Google Analytics 4 and Search Console
 
-**[Email Paul about a project](mailto:paulchumbow254@gmail.com?subject=Project%20or%20workflow%20enquiry)** · [View my portfolio](https://paulchumbow254.lovable.app?utm_source=github&utm_medium=profile&utm_campaign=github_portfolio)
+Tools are selected to fit the problem; a tool name is not a claim that every integration is deployed in every project.
+
+## Have a workflow, website or operations challenge?
+
+Send a short note describing:
+- what you are trying to achieve;
+- where the current process gets stuck; and
+- what a useful outcome would look like.
+
+**[Email Paul about a project](mailto:paulchumbow254@gmail.com?subject=Project%20or%20workflow%20enquiry)** · [View the portfolio](https://paulchumbow254.lovable.app?utm_source=github&utm_medium=profile&utm_campaign=github_portfolio)
 
 I aim to respond to genuine enquiries within **one business day**.
 
 ---
 
 <p align="center">
-  <sub>Paul Chumbow · Chumbow Lab · Nairobi, Kenya</sub><br>
+  <sub><strong>Paul Chumbow</strong> · Chumbow Lab · Nairobi, Kenya</sub><br>
   <sub>Turning Ideas Into Systems That Work.</sub>
 </p>
