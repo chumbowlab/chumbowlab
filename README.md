@@ -87,6 +87,14 @@ Daily briefs, meeting-to-action, follow-up and process-documentation templates, 
 | [Standard Operating Procedure](./resources/operations-automation-toolkit/templates/standard-operating-procedure.md) | Document repeatable work |
 | [WordPress Maintenance Checklist](./resources/operations-automation-toolkit/templates/wordpress-maintenance-checklist.md) | Organise routine site care |
 | [AI Workflow Review](./resources/operations-automation-toolkit/templates/ai-workflow-review.md) | Evaluate privacy, testing and human oversight |
+| [WordPress Operations Playbook](./resources/wordpress-operations-playbook/README.md) | Follow a structured website maintenance process |
+| [AI Workflow Lab](./resources/ai-workflow-lab/README.md) | Explore practical, human-reviewed AI use cases |
+
+## Beyond the featured projects
+
+- [WordPress Operations Playbook](./resources/wordpress-operations-playbook/README.md) — a field guide for maintenance, troubleshooting and SEO checks.
+- [AI Workflow Lab](./resources/ai-workflow-lab/README.md) — practical workflow patterns, example prompts and human-review controls.
+- [Contribution guidelines](./CONTRIBUTING.md) · [Security and privacy notes](./SECURITY.md)
 
 ## How I work
 
