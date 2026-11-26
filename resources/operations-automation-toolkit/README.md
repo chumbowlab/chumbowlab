@@ -33,6 +33,10 @@ A growing collection of reusable resources for founder support, executive assist
 | [WordPress Maintenance Checklist](./templates/wordpress-maintenance-checklist.md) | Structure routine site maintenance and post-update checks |
 | [AI Workflow Review](./templates/ai-workflow-review.md) | Evaluate suitability, privacy, testing and human oversight before using AI |
 
+## Companion utility
+
+[Follow-up Desk](../../tools/follow-up-desk/index.html) is a small local-first browser tool for recording commitments, next actions and due dates, with search, overdue filtering and CSV export. Its records remain in the current browser profile; read its [usage and privacy notes](../../tools/follow-up-desk/README.md) before trying it.
+
 ## How to use the resources
 
 1. Start with the outcome you need, not with a tool.
