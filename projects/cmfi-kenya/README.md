@@ -8,13 +8,13 @@
 
 ---
 
-## Project overview
+## What was the project about?
 
 CMFI Kenya is the Kenyan branch website for Christian Missionary Fellowship International, a Christian ministry focused on reaching people and making disciples.
 
 The goal of this project was to build a clear, welcoming and maintainable digital home for the ministry: one that communicates its mission, introduces its ministry areas, and makes key information easier for visitors to find.
 
-## My contribution
+## What did I contribute?
 
 I worked on the WordPress implementation and technical development of the website, including:
 
@@ -26,7 +26,7 @@ I worked on the WordPress implementation and technical development of the websit
 - Performance and image optimization work.
 - Site maintenance, troubleshooting and backup preparation.
 
-## Website experience and design direction
+## What was the website design direction?
 
 The design direction combines a clean editorial layout with a restrained ministry-inspired palette:
 
@@ -37,7 +37,7 @@ The design direction combines a clean editorial layout with a restrained ministr
 
 The intention is to make the site feel contemporary and easy to navigate without losing the character and purpose of the ministry.
 
-## Ministry information represented
+## What ministry information does the site present?
 
 The website's content architecture supports information about the ministry's mission and work, including:
 
@@ -50,7 +50,7 @@ The website's content architecture supports information about the ministry's mis
 
 The content is organized around the ministry's emphasis on making disciples, with its biblical foundation in the Great Commission (Matthew 28).
 
-## Technical approach
+## What technical approach was used?
 
 | Area | Implementation |
 |---|---|
@@ -63,7 +63,7 @@ The content is organized around the ministry's emphasis on making disciples, wit
 | Media | Image preparation and optimization |
 | Maintenance | Backup and site-health practices |
 
-## What this project demonstrates
+## What does this project demonstrate?
 
 This project brings together several practical skills:
 
@@ -73,12 +73,12 @@ This project brings together several practical skills:
 4. **SEO foundations** — configuring metadata, indexing support and analytics tools.
 5. **Operational ownership** — considering backups, maintenance and the long-term manageability of a live website.
 
-## Project links
+## Where can you explore the project?
 
 - **Live website:** [cmfikenya.com](https://cmfikenya.com)
 - **Chumbow Lab portfolio:** [paulchumbow254.lovable.app](https://paulchumbow254.lovable.app)
 
-## Scope and transparency
+## What are the scope and transparency notes?
 
 This repository page is a portfolio case study, not a copy of the ministry's production website. It does not contain the site's database, private media, credentials, hosting configuration or confidential information.
 
@@ -86,5 +86,5 @@ The live website is the reference for the current public experience. Features an
 
 ---
 
-*Chumbow Lab — Turning Ideas Into Systems That Work.*  
+**Paul Chumbow** · Chumbow Lab — *Turning Ideas Into Systems That Work.*  
 *Nairobi, Kenya*
