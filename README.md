@@ -37,6 +37,12 @@ A WordPress implementation project for Christian Missionary Fellowship Internati
 
 [Visit the website →](https://cmfikenya.com)
 
+### Founder Operations Hub · A founder-support workspace prototype
+
+A lightweight workspace for daily briefs, action tracking, meeting notes, follow-ups and weekly reviews. It supports CSV task export, calendar-file export and JSON backup. Data remains in the local browser; live Google Workspace integrations are not implemented.
+
+[Explore Founder Operations Hub →](https://github.com/chumbowlab/chumbowlab/tree/main/projects/founder-operations-hub)
+
 More public project case studies and reusable resources will be added as their implementation, permissions and documentation are ready for review.
 
 ## How do I approach a problem?
