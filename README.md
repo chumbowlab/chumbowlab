@@ -31,6 +31,8 @@ A browser-based prototype for landlords and property managers in Kenya. It bring
 
 [Explore the source code and project notes →](https://github.com/chumbowlab/chumbow-lab-property-operations)
 
+[Open the reusable maintenance workflow template →](https://github.com/chumbowlab/chumbow-lab-property-operations/blob/main/resources/MAINTENANCE-WORKFLOW-TEMPLATE.md)
+
 ### CMFI Kenya · WordPress website project
 
 A live WordPress website project for Christian Missionary Fellowship International Kenya, bringing together custom child-theme styling, responsive presentation, content architecture, SEO foundations and ongoing site operations.
