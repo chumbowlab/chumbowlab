@@ -50,6 +50,14 @@ The website's content architecture supports information about the ministry's mis
 
 The content is organized around the ministry's emphasis on making disciples, with its biblical foundation in the Great Commission (Matthew 28).
 
+## Verified ministry information reflected on the live site
+
+The live website presents the latest national membership snapshot supplied by CMFI Kenya leadership: approximately **2,200 members and 32 house churches, last reported in January 2026**. These are historical figures, not a current November 2026 count; actual totals may have changed, and no newer verified national figures are available yet.
+
+The international goal described in the leadership interview is **one billion people across 250 nations**, organised in **25 million house churches by 2065**.
+
+The weekly gathering information distinguishes the Wednesday daytime prayer meeting from evening fellowship: **two or more people gather to pray from noon to 2:00 p.m. during the general partial fast**; in Nairobi, house churches meet in the evening for breaking of bread and breaking the fast. Local arrangements may vary.
+
 ## What technical approach was used?
 
 | Area | Implementation |
